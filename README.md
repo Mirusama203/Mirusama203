@@ -1,4 +1,4 @@
-# Hi, I'm Mir Usama Ul Haq 👋
+# Hi, I'm Mir Usama-Ul-Haq 👋
 
 Test Validation & Verification Engineer in Munich, focused on automotive infotainment and ADAS.
 
